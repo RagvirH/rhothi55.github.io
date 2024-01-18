@@ -1,1 +1,118 @@
-# rhothi55.github.io
+<!DOCTYPE html>
+<html>
+    <body>     
+        <h1 style="text-align: center;"><b>Norway</b></h1>
+
+        <hr>
+
+        <p>
+            
+            <div style="background-color: aquamarine; text-align: center;">
+            <b>
+            Norway is a country renowned for its beautiful landscapes, from its remote mountainous areas,
+            to its picture perfect cities. Tucked away in this Scandinavian paradise, you can see the beautiful 
+            northern lights, among its many natural attractions. So come explore all the things Norway has to show. 
+            </b>
+            </div>
+
+    
+        </p>
+
+        <hr>
+
+        <div style="border: 4px solid black; background-color: lightpink;">
+            
+            
+            
+            <h2>Things to do in Norway</h2>
+            <img src="https://wallpapersmug.com/download/1600x1200/dfb868/northern-lights-coast-norway-5k.jpg" width="200 px">
+            <h3>The northern lights</h3>
+            <p>
+                The Aurora Borealis is a dazling phenomenon that occurs when charged solar particles strike the Earth's
+                magnetic field. The result? a light show that'll leave you speechless!
+            </p>
+            <img src="https://images.theoutbound.com/2018/10/24/00/b838ad43a64d444f0af29ff826ec10ad?&fit=crop&w=970&h=550&auto=format&dpr=2&q=60" width="200 px">
+            <h3>Hiking</h3>
+            <p>
+                Why hike just anywhere when you can hike in Norway? Norway features some of the planets most beautiful 
+                natural landscapes in its Fjords. So come see all that Norway has to offer!
+            </p>
+
+
+
+        </div>
+        <hr>
+        
+        <div>
+            <h2>Upcoming events</h2>
+            <ul>
+                <li>Charlie Crockett concert</li>
+                <li>Norwegian Soccer league matches</li>
+            </ul>
+        </div>
+        <hr>
+        <div>
+            <h2>Newsfeed</h2>
+            <h3>Norway Krone Dip</h3>
+            <h4>The currencies weak valuation has caused some investors to baulk on investing.</h4>
+            <h3>Norway bans Russian Cars</h3>
+            <h4>Norway restricts entry of Russian registered cars.</h4>
+        </div>
+        <hr>
+        <div>
+            <h2>How much does a trip to Norway cost?</h2>
+            <table border="2">
+                <tr>
+                    <th style="background-color: lightgreen;" width="100">Various expenses</th>
+                    <th width="100">Ticket from JFK</th>
+                    <th width="100">Hotel for 1 per night</th>
+                    <th width="100">Food per day</th>
+                    <th width="100">activities</th>
+                    <th style="background-color: lightgreen;" width="100">Cost total</th>
+                </tr>
+                <tr>
+                    <th></th>
+                    <th>$784</th>
+                    <th>$165</th>
+                    <th>$20</th>
+                    <th>$200</th>
+                    <th style="background-color: lightcoral;">$1,169</th>
+                   
+                </tr>
+
+
+
+            </table>
+            <hr>
+            <div>
+                <h2>Contact Us</h2>
+                <a href="tel:7188003471">7188003471</a>
+                <br>
+                <a href="ragvirhothi@gmail.com">ragvirhothi@gmail.com</a>
+            </div>
+
+
+
+
+
+
+        </div>
+        <hr>
+        <div>
+            <a href="page1.html">Northern Lights</a>
+            <br>
+            <a href="page2.html">Hiking</a>
+
+
+        </div>
+
+
+
+    </body>
+
+
+
+
+
+
+</html>
